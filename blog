@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VentureWise Insights - Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.html">VentureWise</a>
+            </div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="blog.html">Blog</a>
+                <a href="contact.html">Contact</a>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="blog-header">
+            <h1>VentureWise Insights</h1>
+        </section>
+
+        <section class="blog-grid">
+            <article class="blog-card">
+                <div class="blog-content">
+                    <h2><a href="#">How to Validate Your Startup Idea</a></h2>
+                    <div class="meta">
+                        <span class="date">2023-07-01</span>
+                        <span class="author">Sarah Chen, VentureWise Founder</span>
+                    </div>
+                    <p>Learn the essential steps to validate your startup idea before investing time and resources.</p>
+                    <div class="tags">
+                        <span class="tag">ideation</span>
+                        <span class="tag">validation</span>
+                        <span class="tag">market research</span>
+                    </div>
+                </div>
+            </article>
+
+            <article class="blog-card">
+                <div class="blog-content">
+                    <h2><a href="#">Fundraising Strategies for Early-Stage Startups</a></h2>
+                    <div class="meta">
+                        <span class="date">2023-07-15</span>
+                        <span class="author">Michael Ross, VentureWise Advisor</span>
+                    </div>
+                    <p>Discover effective fundraising strategies tailored for early-stage startups in today's competitive landscape.</p>
+                    <div class="tags">
+                        <span class="tag">fundraising</span>
+                        <span class="tag">venture capital</span>
+                        <span class="tag">angel investors</span>
+                    </div>
+                </div>
+            </article>
+
+            <!-- Add more blog posts as needed -->
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 VentureWise Blog. All rights reserved.</p>
+    </footer>
+</body>
+</html>
